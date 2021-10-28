@@ -14,7 +14,7 @@
 <h2 align="left">🔗 Connect With Me</h2>
 <pre>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/99anjali-418637132)      [![Facebook Badge](https://img.shields.io/badge/Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://99anjali.github.io/Webpage/index.html)      [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mittal_shashwat)      [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/shashwat.mittal/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-sahu-1439ba207)      [![Facebook Badge](https://img.shields.io/badge/Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100058692290721)      [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AnjaliS10154712?t=LrOO-Vy4VLZLXyozBKNr9w&s=08)      [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/sahu_anjali99/)
     
 </pre> 
 <h2 align="left">🛠 Technologies and Tools I use:</h2>
